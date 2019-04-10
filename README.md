@@ -6,3 +6,5 @@ Model View Controller (MVC) design principles, using custom model code, UIViewCo
 PitchPerfect allows users to record their voice and play back the recording using different modulations to change the playback. 
 The user can choose between 6 different modulation effects: a fast playback rate, a slow playback rate, a high pitch, a low pitch, an echo,
 and a reverb.
+
+<img src="Screenshots/PitchPerfect1.png" width="300"> <img src="Screenshots/PitchPerfect2.png" width="300">
